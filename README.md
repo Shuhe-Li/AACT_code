@@ -2,6 +2,7 @@
 
 ## AACT Database
 AACT is a publicly available relational database that contains all information (protocol and result data elements) about every study registered in ClinicalTrials.gov. Content is downloaded from ClinicalTrials.gov daily and loaded into AACT. 
+
 URL: https://aact.ctti-clinicaltrials.org/ 
 
 ## Related paper
